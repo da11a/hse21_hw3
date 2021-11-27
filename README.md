@@ -24,3 +24,5 @@
 ### SRR3414637_1
 ![image](https://user-images.githubusercontent.com/67833171/143687378-0b55f634-8dec-45d6-8aac-9f7b01c4aa89.png)
 ![image](https://user-images.githubusercontent.com/67833171/143687393-19e18218-5433-401a-817f-02d3804fe3b3.png)
+
+## **Общее кол-во чтений, и кол-во, которое удалось успешно откартировать (уникально и не уникально), из файлов формата hisat:**
