@@ -1,9 +1,16 @@
 # hse21_hw3
 
+## **Ссылки на google colab ноутбуки:**
+Выравнивание RNA-seq чтений на геном мыши:
+https://colab.research.google.com/drive/1Z6jp2saftO7y-paFO6lFWMQeNShV1g0l?usp=sharing
+
+Поиск генов, которые значимо поменяли свою экспрессию:
+https://colab.research.google.com/drive/18riJp85rxn70wu3GXEURH7KAHL6C0IaZ?usp=sharing
+
 ## **Скриншоты и статистика из файлов FastQC:**
 ### SRR3414629_1
-![image](https://user-images.githubusercontent.com/67833171/143687260-1b39c32f-ce4e-41e3-b6ba-b8e652559c1e.png)
-![image](https://user-images.githubusercontent.com/67833171/143687280-81a7add8-c219-4da2-970f-5861af034ab9.png)
+![image](https://user-images.githubusercontent.com/67833171/143786252-ad03b82d-72b9-4e67-b646-eba3eee4459c.png)
+![image](https://user-images.githubusercontent.com/67833171/143786302-e7ce6ee8-4c61-4394-bead-95f4587ecd4c.png)
 
 ### SRR3414630_1
 ![image](https://user-images.githubusercontent.com/67833171/143687313-4f33eb59-f16e-4d2a-96c6-3d067e4ffe01.png)
@@ -25,4 +32,4 @@
 ![image](https://user-images.githubusercontent.com/67833171/143687378-0b55f634-8dec-45d6-8aac-9f7b01c4aa89.png)
 ![image](https://user-images.githubusercontent.com/67833171/143687393-19e18218-5433-401a-817f-02d3804fe3b3.png)
 
-## **Общее кол-во чтений, и кол-во, которое удалось успешно откартировать (уникально и не уникально), из файлов формата hisat:**
+## **Таблица со статистикой по каждому из 6-ти образцов:**
