@@ -8,28 +8,37 @@ https://colab.research.google.com/drive/1Z6jp2saftO7y-paFO6lFWMQeNShV1g0l?usp=sh
 https://colab.research.google.com/drive/18riJp85rxn70wu3GXEURH7KAHL6C0IaZ?usp=sharing
 
 ## **Скриншоты и статистика из файлов FastQC:**
-### SRR3414629_1
+  ### SRR3414629_1
 ![image](https://user-images.githubusercontent.com/67833171/143786252-ad03b82d-72b9-4e67-b646-eba3eee4459c.png)
-![image](https://user-images.githubusercontent.com/67833171/143786302-e7ce6ee8-4c61-4394-bead-95f4587ecd4c.png)
+![image](https://user-images.githubusercontent.com/67833171/143786363-5dc3c960-e10f-47d0-81fe-fdab00b85b66.png)
 
-### SRR3414630_1
-![image](https://user-images.githubusercontent.com/67833171/143687313-4f33eb59-f16e-4d2a-96c6-3d067e4ffe01.png)
-![image](https://user-images.githubusercontent.com/67833171/143687327-18aff38d-e77d-4034-9dae-c80ff4bcf019.png)
+  ### SRR3414630_1
+![image](https://user-images.githubusercontent.com/67833171/143786406-085bd69a-f6a4-4133-9f56-2df8b2eb4bda.png)
+![image](https://user-images.githubusercontent.com/67833171/143786393-67138074-a5db-4aac-8d7f-f8090da64280.png)
 
-### SRR3414631_1
-![image](https://user-images.githubusercontent.com/67833171/143687332-1c4875bc-0255-41aa-b05d-816d56e4c7e4.png)
-![image](https://user-images.githubusercontent.com/67833171/143687344-07c754f0-1bd7-461a-b8cc-e82d1ee69137.png)
+  ### SRR3414631_1
+![image](https://user-images.githubusercontent.com/67833171/143786474-62f6f021-a13b-460b-9b7e-4ea91eac271a.png)
+![image](https://user-images.githubusercontent.com/67833171/143786486-b31c382e-eacc-428e-8211-b4b39afd1c9c.png)
 
-### SRR3414635_1
-![image](https://user-images.githubusercontent.com/67833171/143687350-41e9b179-3efc-40b9-861a-a2a79afb4307.png)
-![image](https://user-images.githubusercontent.com/67833171/143687356-1a758794-15c5-4d82-8ba8-f30ed836ecbc.png)
+  ### SRR3414635_1
+![image](https://user-images.githubusercontent.com/67833171/143786496-6f7dfe30-ec92-476f-8db6-cc10e77cab72.png)
+![image](https://user-images.githubusercontent.com/67833171/143786513-4a1add86-3a0b-446b-92a1-691f71a25205.png)
 
-### SRR3414636_1
-![image](https://user-images.githubusercontent.com/67833171/143687364-63bcd8d0-be92-45be-9c41-57bbfcf94abe.png)
-![image](https://user-images.githubusercontent.com/67833171/143687373-c00c1459-6b9a-47ef-9c36-0297288680e3.png)
+  ### SRR3414636_1
+![image](https://user-images.githubusercontent.com/67833171/143786527-3371f7ca-2726-4057-8c26-88bd2d1a7d21.png)
+![image](https://user-images.githubusercontent.com/67833171/143786539-af82a439-5700-4154-99dd-87e4b6ab5a92.png)
 
-### SRR3414637_1
-![image](https://user-images.githubusercontent.com/67833171/143687378-0b55f634-8dec-45d6-8aac-9f7b01c4aa89.png)
-![image](https://user-images.githubusercontent.com/67833171/143687393-19e18218-5433-401a-817f-02d3804fe3b3.png)
+  ### SRR3414637_1
+![image](https://user-images.githubusercontent.com/67833171/143786556-b991510f-38e0-4314-a6e4-6b236c79d218.png)
+![image](https://user-images.githubusercontent.com/67833171/143786570-e164d782-0fc1-4074-a2bc-1dd3506cc25a.png)
 
 ## **Таблица со статистикой по каждому из 6-ти образцов:**
+
+
+## **Графики из анализа DESeq2:**
+MA-plot:
+![image](https://user-images.githubusercontent.com/67833171/143787197-23a86e83-37ba-4c88-9063-ca30c95ebfa7.png)
+
+Тепловая карта:
+![image](https://user-images.githubusercontent.com/67833171/143787343-55856a62-db85-44c0-8a4e-06bf6a8c94b1.png)
+
