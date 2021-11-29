@@ -34,11 +34,22 @@ https://colab.research.google.com/drive/18riJp85rxn70wu3GXEURH7KAHL6C0IaZ?usp=sh
 
 ## **Таблица со статистикой по каждому из 6-ти образцов:**
 
+![image](https://user-images.githubusercontent.com/67833171/143942852-b13e09dc-a01a-40e0-85bb-ee7ce8521e10.png)
 
 ## **Графики из анализа DESeq2:**
-MA-plot:
+### MA-plot:
 ![image](https://user-images.githubusercontent.com/67833171/143787197-23a86e83-37ba-4c88-9063-ca30c95ebfa7.png)
 
-Тепловая карта:
+### Тепловая карта:
 ![image](https://user-images.githubusercontent.com/67833171/143787343-55856a62-db85-44c0-8a4e-06bf6a8c94b1.png)
+
+### Наиболее сильно изменившие экспрессию:
+![image](https://user-images.githubusercontent.com/67833171/143930979-63387cc4-0654-44f8-8a30-dcb21e586664.png)
+
+### Нескольких генов, которые наиболее значимо поменяли свою экспрессию:
+![image](https://user-images.githubusercontent.com/67833171/143931207-597919de-78bd-4a4b-acdb-25a2ab8d10b3.png)
+
+![image](https://user-images.githubusercontent.com/67833171/143931234-28aeb28b-39c1-4275-87dd-954d63294020.png)
+
+![image](https://user-images.githubusercontent.com/67833171/143931266-1af3b4d0-c3d2-42f9-b71e-5afc421c617b.png)
 
